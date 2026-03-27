@@ -31,17 +31,7 @@ The dataset features a severe 91% vs 9% class imbalance, making a standard binar
 
 ---
 
-## Results on validation set
 
-| Metric | Value |
-|--------|-------|
-| AUROC | 0.6124 |
-| F1 (minority class) | 0.2641 |
-| Precision (minority) | 0.1561 |
-| Recall (minority) | 0.6620 |
-| Decision threshold used | 0.20 |
-
----
 
 ## How to run
 
